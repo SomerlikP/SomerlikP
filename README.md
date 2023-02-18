@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Omeereq
+### Hi there 👋, my name is SomerlikP
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -11,14 +11,16 @@ Skills: Python / JS / HTML / CSS / JS
 - 💬 Ask me about Bots for League of Legends 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Omeereq)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SomerlikP)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omeereq)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SomerlikP)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Omeereq&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomerlikP)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Omeereq)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SomerlikP&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Omeereq)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SomerlikP)  
+
+![Profile views](https://gpvc.arturio.dev/SomerlikP)  
