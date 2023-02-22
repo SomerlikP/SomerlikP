@@ -6,6 +6,8 @@
 🌱 Aktualnie uczę się Python / HTML / CSS / JS
 <br><br>
 💬 Zapytaj mnie o Boty do League of Legends
+<br><br>
+SPIS TREŚCI: https://github.com/SomerlikP/SPIS-TRESCI
 
 
 ## 🌐 Social Media:
