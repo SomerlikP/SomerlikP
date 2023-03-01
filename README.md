@@ -2,6 +2,7 @@
 
 # 💫 O mnie:
 🔭 Obecnie pracuję nad botami do League of Legends
+🔭 Obecnie pracuję nad stroną "http://collf.civ.pl" na której niedługo będzie można kupić moje programy
 <br><br>
 🌱 Aktualnie uczę się Python / HTML / CSS / JS
 <br><br>
