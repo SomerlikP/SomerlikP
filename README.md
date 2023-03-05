@@ -26,9 +26,7 @@ SPIS TREŚCI: https://github.com/SomerlikP/SPIS-TRESCI
 ## 🏆 GitHub Osiągnięcia:
 ![](https://github-profile-trophy.vercel.app/?username=SomerlikP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
----
-
 ## 💰 Możesz mnie wspomóc:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a)
+
+[![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
