@@ -29,4 +29,6 @@ SPIS TREŚCI: https://github.com/SomerlikP/SPIS-TRESCI
 ## 💰 Możesz mnie wspomóc:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a)
 
-[![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
+<div style="text-align: right;">
+  [![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
