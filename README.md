@@ -26,9 +26,6 @@ SPIS TREŚCI: https://github.com/SomerlikP/SPIS-TRESCI
 ## 🏆 GitHub Osiągnięcia:
 ![](https://github-profile-trophy.vercel.app/?username=SomerlikP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Ostatni Tweet:
-[![](https://gtce.itsvg.in/api?username=a)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
 
