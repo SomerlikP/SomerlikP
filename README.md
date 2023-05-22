@@ -56,5 +56,5 @@ SPIS TREŚCI: https://github.com/SomerlikP/SPIS-TRESCI
 ## 💰 Możesz mnie wspomóc:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/a)
 
-## 👁️ Ilość wizyt:
+## 👁️ Ilość wizyt profilu:
 [![](https://visitcount.itsvg.in/api?id=SomerlikP&icon=5&color=0)](https://visitcount.itsvg.in)
